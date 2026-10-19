@@ -2,4 +2,4 @@
 
 <img src="./logo.png" width=256>
 
-### Email, Chat & Calendar
+OKoala is a self-hostable, multi-tenant collaboration platform: Email, End-to-end encrypted instant messaging and Calendar 
