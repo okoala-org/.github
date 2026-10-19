@@ -1,3 +1,5 @@
 ## OKoala - Open Source Collaboration Platform
 
-Email + Chat + Calendar
+<img src="./logo.png" width=256>
+
+### Email, Chat & Calendar
