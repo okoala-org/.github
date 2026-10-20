@@ -13,7 +13,7 @@
 
 ## Overview
 
-OKoala is a self-hostable, multi-tenant collaboration platform: Email, End-to-end encrypted instant messaging and Calendar 
+OKoala is an open source collaboration platform providing Email, End-to-end encrypted instant messaging and Calendar. 
 
 - Single Server Binary
 - Self Hostable
