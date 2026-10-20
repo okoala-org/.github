@@ -1,5 +1,21 @@
-## OKoala - Open Source Collaboration Platform
+<div align="center">
+  <img src="https://cdn.iasoft.dev/okoala/logo.png" alt="OKoala Logo" width="190" style="border-radius: 1.15rem;"/>
+  <br/>
 
-<img src="./logo.png" width=256>
+  <img src="https://img.shields.io/badge/Email-darkred.svg" alt=""/>
+  <img src="https://img.shields.io/badge/Chat-darkgreen.svg" alt=""/>
+  <img src="https://img.shields.io/badge/Calendar-darkblue.svg" alt=""/>
+
+  <p style="padding-top: 0.2rem;">
+    <b>OKoala: Open Source Collaboration Platform</b>
+  </p>
+</div>
+
+## Overview
 
 OKoala is a self-hostable, multi-tenant collaboration platform: Email, End-to-end encrypted instant messaging and Calendar 
+
+- Single Server Binary
+- Self Hostable
+- Multi-tenant
+- End-to-end encrypted messaging
